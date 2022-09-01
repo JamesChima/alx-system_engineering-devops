@@ -1,0 +1,1 @@
+This repository is for shell basics and will contain scripts that will ne running different commands.
